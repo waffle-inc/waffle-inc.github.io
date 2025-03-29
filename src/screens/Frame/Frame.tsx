@@ -11,14 +11,14 @@ export const Frame = (): JSX.Element => {
           <div className="flex gap-4">
             <a href="https://t.me/Waffle_Channel" target="_blank" rel="noopener noreferrer" className="hover:opacity-80">
               <img
-                className="w-8 h-8"
+                className="w-8 h-8 invert"
                 alt="Telegram icon"
                 src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg"
               />
             </a>
             <a href="https://github.com/waffle-inc" target="_blank" rel="noopener noreferrer" className="hover:opacity-80">
               <img
-                className="w-8 h-8"
+                className="w-8 h-8 invert"
                 alt="GitHub icon"
                 src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg"
               />
@@ -165,14 +165,14 @@ export const Frame = (): JSX.Element => {
           <div className="flex gap-4 md:gap-6">
             <a href="https://t.me/Waffle_Channel" target="_blank" rel="noopener noreferrer" className="hover:opacity-80">
               <img
-                className="w-8 h-8 md:w-10 md:h-10"
+                className="w-8 h-8 md:w-10 md:h-10 invert"
                 alt="Telegram icon"
                 src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg"
               />
             </a>
             <a href="https://github.com/waffle-inc" target="_blank" rel="noopener noreferrer" className="hover:opacity-80">
               <img
-                className="w-8 h-8 md:w-10 md:h-10"
+                className="w-8 h-8 md:w-10 md:h-10 invert"
                 alt="GitHub icon"
                 src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg"
               />
