@@ -13,14 +13,14 @@ export const Frame = (): JSX.Element => {
               <img
                 className="w-8 h-8"
                 alt="Telegram icon"
-                src="https://c.animaapp.com/PYfP3owr/img/8666462-telegram-icon-1.svg"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg"
               />
             </a>
             <a href="https://github.com/waffle-inc" target="_blank" rel="noopener noreferrer" className="hover:opacity-80">
               <img
                 className="w-8 h-8"
                 alt="GitHub icon"
-                src="https://c.animaapp.com/PYfP3owr/img/group@2x.png"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg"
               />
             </a>
           </div>
@@ -167,14 +167,14 @@ export const Frame = (): JSX.Element => {
               <img
                 className="w-8 h-8 md:w-10 md:h-10"
                 alt="Telegram icon"
-                src="https://c.animaapp.com/PYfP3owr/img/8666462-telegram-icon-1.svg"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg"
               />
             </a>
             <a href="https://github.com/waffle-inc" target="_blank" rel="noopener noreferrer" className="hover:opacity-80">
               <img
                 className="w-8 h-8 md:w-10 md:h-10"
                 alt="GitHub icon"
-                src="https://c.animaapp.com/PYfP3owr/img/group@2x.png"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg"
               />
             </a>
           </div>
